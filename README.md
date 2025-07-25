@@ -17,7 +17,7 @@ Perspective Scale Compensation: When in object mode, hold the Ctrl key while dra
 
 ## Hotkeys in Maya        
 ### Copy this to your hotkey-press event:
-'''
+```python
 import sys
 import importlib
 if 'okPushy2' not in sys.modules:
@@ -26,10 +26,9 @@ if 'okPushy2' not in sys.modules:
         sys.path.append(script_path)
 import okPushy2
 okPushy2.okPushyActivate()
-'''
-
+```
 ### Copy this to your hotkey-release event:
-'''
+```python
 import okPushy2
 okPushy2.okPushyDeactivate()
-'''
+```
