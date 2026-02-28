@@ -7,8 +7,7 @@ IMDB: [http://www.imdb.com/name/nm0456285/](http://www.imdb.com/name/nm0456285/)
 ## Description
 okPushy is an advanced interactive tool for Autodesk Maya designed to give artists a fast, gizmo-free method for adjusting the depth of a selection. Activated entirely by a press-and-hold hotkey, it allows for the intuitive "pushing" (away from the camera) and "pulling" (toward the camera) of objects and components simply by dragging the mouse.
 
-![Photo Modelling Demo](https://drive.google.com/file/d/1ivaFj8JGuktOS-FraWvWg653Bqs-x0V_/view?usp=drive_link)
-![Photo Modelling Demo](https://drive.google.com/file/d/1ivaFj8JGuktOS-FraWvWg653Bqs-x0V_/view)
+(https://youtu.be/gsnntbIz_uk)
 
 ## Core Features:
 - **Intuitive, Hotkey-Driven Workflow:** The tool is only active while a hotkey is held down. Press to start, drag to push/pull, and release to return instantly to your previous tool.
